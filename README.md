@@ -1,8 +1,15 @@
 ## Lin Chen
 
-You can use the [editor on GitHub](https://github.com/cl812958191/cl812958191.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Lin Chen 
+Cell Phone: +1-857-2225998  
+Email: chenl97@bu.edu   
+Mail Address: Apt. 737, 185 Freeman St, Brookline, MA, 02446
+GitHub webpage: https://github.com/cl812958191
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+证件照.jpeg![image](https://user-images.githubusercontent.com/71042722/109444895-4faf0b00-7a0c-11eb-985f-be98796c869c.png)
+
+
+
 
 ### Education
 
